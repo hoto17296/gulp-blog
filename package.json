@@ -11,6 +11,11 @@
     "start": "gulp"
   },
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-frontmatter": "*",
+    "gulp-layout": "*",
+    "gulp-markdown": "*",
+    "gulp-rename": "*",
+    "gulp-webserver": "*"
   }
 }
