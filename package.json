@@ -12,10 +12,12 @@
   },
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-frontmatter": "*",
+    "gulp-front-matter": "*",
     "gulp-layout": "*",
     "gulp-markdown": "*",
     "gulp-rename": "*",
-    "gulp-webserver": "*"
+    "gulp-webserver": "*",
+    "jade": "^1.11.0",
+    "rimraf": "^2.4.4"
   }
 }
