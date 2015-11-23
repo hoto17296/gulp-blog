@@ -1,0 +1,16 @@
+{
+  "name": "gulp-blog",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "author": "'ほと' <mail@hoto.me>",
+  "engines": {
+    "node": "4.2"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
